@@ -1,0 +1,6 @@
+{
+  "name": "CogniSynapse: Self-Learning AI & News Knowledge Engine",
+  "description": "Autonomous self-learning AI that analyzes real-time breaking internet news, dynamically updates its internal knowledge graph and epistemic memory, synthesizes multimedia with high-resolution imagery and Veo video animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
